@@ -1,0 +1,25 @@
+[AR]
+اسم المشروع: RAG Voice Chatbot
+الهدف: شات بوت يجاوب من ملفات /data فقط باستخدام RAG.
+التقنيات:
+- Backend: FastAPI + Uvicorn
+- Vector DB: Chroma (Local)
+- Embeddings: nomic-embed-text عبر Ollama
+- LLM: (اسم الموديل من ollama list) عبر Ollama
+- Frontend: Next.js
+ميزة إضافية: سؤال بالصوت (Speech-to-Text من المتصفح)
+
+معلومة سرية للاختبار: كود المشروع = 73821
+
+[EN]
+Project Name: RAG Voice Chatbot
+Goal: A chatbot that answers ONLY from /data using RAG.
+Tech stack:
+- Backend: FastAPI + Uvicorn
+- Vector DB: Chroma (Local)
+- Embeddings: nomic-embed-text via Ollama
+- LLM: (your installed Ollama model) via Ollama
+- Frontend: Next.js
+Extra: Voice questions (browser Speech-to-Text)
+
+Secret test value: project code = 73821
